@@ -1,4 +1,6 @@
-datasciencecoursera
-===================
 
-## This is a repository created as part of the Data Scientist's Toolbox course on coursera.org 
+# Data Scientist's Toolbox
+
+## Assignment
+
+This is the repository created for the assignment. 
